@@ -2,7 +2,7 @@
 
 Hello! 👋🏽
 
-I am 4th year Computer Science student @ UC Davis about to graduate in June 2024.
+I am a Computer Science student @ UC Davis about to graduate in June 2024.
 
 I'm currently looking for New Graduate Software Engineer roles!
 
