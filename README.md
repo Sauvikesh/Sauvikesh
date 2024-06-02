@@ -11,10 +11,11 @@ I have experience in full-stack web development using ReactJS / NextJS and NodeJ
 I also have experience in iOS development using SwiftUI.
 
 Experiences 🧑🏽‍💻
-* Software Engineering Intern @ Slack 
-* Technical Director @ HackDavis
-* Software Developer @ CodeLab
-* Software Developer @ UC Davis Information & Education Technology 
+* Software Engineering Intern @ [Slack](https://slack.com/) 
+* Technical Director @ [HackDavis](https://hackdavis.io/)
+* Software Developer @ [UC Davis Information & Education Technology](https://studentpowered.ucdavis.edu/)
+* Frontend Developer @ [#Include](https://includedavis.com/)
+* Software Developer @ [CodeLab](https://www.codelabdavis.com/)
 
 
 
