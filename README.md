@@ -2,13 +2,11 @@
 
 Hello! 👋🏽
 
-I am a Software Engineer that graduated from UC Davis in June 2024 with a degree in Computer Science.
+📍 I am an early career Software Engineer based in the Bay Area.
 
-I'm actively looking for New Graduate Software Engineer roles!
+💼 I work as a Full Stack Software Engineer for [C3 AI](https://c3.ai/) as a contractor through [Paradyme](https://paradyme.us/)!
 
-I have experience in full-stack web development and iOS development.
-
-Check out my [LinkedIn](https://www.linkedin.com/in/sauvikesh-lal/) for more in depth information about my experiences.
+🔗 Check out my [LinkedIn](https://www.linkedin.com/in/sauvikesh-lal/) for more in depth information about my experiences.
 
 ## 🖥️ My Past SWE Experiences
 * Backend Software Engineering Intern @ [Slack](https://slack.com/) 
@@ -18,10 +16,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/sauvikesh-lal/) for more in 
 * Software Developer @ [CodeLab](https://www.codelabdavis.com/)
 
 ## ☕️ What am working on now? 
-* The AggieFeed website for UC Davis IET
-* A portfolio website for my friend
 * Practicing LeetCode
-* Researching for my next full-stack project
+* Keeping up with the latest industry technologies
+* Maintaing work-life balance 
 
 
 ## ✨ Some of my Favorite Technologies to Work With
