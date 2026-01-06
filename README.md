@@ -15,30 +15,6 @@ Hello! 👋🏽
 * Frontend Developer @ [#Include](https://includedavis.com/)
 * Software Developer @ [CodeLab](https://www.codelabdavis.com/)
 
-## ☕️ What am working on now? 
-* Practicing LeetCode
-* Keeping up with the latest industry technologies
-* Maintaing work-life balance 
-
-
-## ✨ Some of my Favorite Technologies to Work With
-* ReactJS
-* NextJS
-* Typescript / Javascript
-* NodeJS / Express / Fastify
-* CSS / Sass / Tailwind CSS
-* MongoDB
-* Docker
-* Swift
-* SwiftUI
-
-## 📝 What do I want to Learn in the Future? 
-* Postgres
-* GraphQL
-* React Native
-* Flask
-* AWS Services
-* Jenkins
 
 ## 🫶🏽 Thanks for visiting!
 <!--
